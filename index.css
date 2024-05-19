@@ -8,8 +8,8 @@ section{
     background-color: antiquewhite;
 }
 .hero{
-    background-color: #030637;
-    color: #910A67;
+    background-color: #F2F9F1;
+    color: #388E3C;
     display: flex;
 }
 .korobka{
@@ -69,8 +69,8 @@ input{
 }
 #contactme{
     padding: 50px;
-    color:#030637;
-    background-color: #910A67;
+    color:#F2F9F1;
+    background-color: #388E3C;
     position: relative;
     z-index: 3;
 }
@@ -90,15 +90,15 @@ input{
     font-size: 30px;
     text-decoration: none;
     margin: 0 30px;
-    color: #910A67;
+    color: black;
 }
 nav{
-    border: 1px solid #910A67 ;
+    border: 1px solid #388E3C ;
     margin: 20px 50px;
     border-radius: 25px;
     width: calc(100% - 100px);
-    color: #910A67;
-    background-color: #030637;
+    color: #DDEEDF;
+    background-color: #8BC34A;
     display: flex;
     align-items: center;
     height: 60px;
@@ -111,7 +111,7 @@ nav{
 }
 .btn{
     padding: 10px 30px;
-    background-color: red;
+    background-color: #DDEEDF;
     border-radius: 30px;
     color: black;
 }
@@ -125,7 +125,7 @@ nav{
     height: 1px;
     top: 600px;
     left: 75%;
-    box-shadow: 0px 0px 300px 300px #3C0753 ;
+    box-shadow: 0px 0px 300px 300px #8BC34A ;
     background-color: bisque;
 }
 img{
@@ -138,12 +138,12 @@ img{
 }
 .card{
     width: 500px;
-    background-color: #910A67;
+    background-color: #8BC34A;
     padding: 50px ;
     border-radius: 30px;
 }
 .h3{
-    color: #030637;
+    color: #000000;
 }
 .w100{
     width: 100%;
@@ -170,7 +170,7 @@ img{
 
 }
 #aboutme{
-    background-color: #910A67;
+    background-color: #8BC34A;
 }
 .chto{
    text-align: center;
@@ -181,9 +181,50 @@ img{
     top: 50%;
 }
 #myskills{
-    background-color: #030637;
+    background-color: #8BC34A;
 }
 .kto {
     text-align: center;
     top:50%
+}
+.ketchup{
+    text-align: center;
+}
+.makaka{
+    text-align: center;
+}
+
+
+
+#myblog{
+    padding: 150px 0;
+}
+.karta{
+    width: 500px;
+    background-color: #8BC34A;
+    padding: 50px ;
+    border-radius: 5px;
+}
+.h3{
+    color: #000000;
+}
+.w122{
+    width: 100%;
+}
+.kisa{
+    text-decoration: none;
+    width: 250px;
+    display: block;
+    margin: 0 150px;
+
+}
+.dflex{
+    display: flex;
+}
+.w66{
+    width: 80%;
+}
+.omar{
+    margin-top: 300px;
+    margin-right: 50px;
 }
